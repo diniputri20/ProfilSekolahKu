@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolahKu">
         <activity
+            android:name=".perpusActivity"
+            android:exported="false" />
+        <activity
+            android:name=".profilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ekskulActivity"
+            android:exported="false" />
+        <activity
+            android:name=".galeryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".fasilitasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".guruActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
