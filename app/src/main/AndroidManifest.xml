@@ -19,9 +19,6 @@
             android:name=".perpusActivity"
             android:exported="false" />
         <activity
-            android:name=".profilActivity"
-            android:exported="false" />
-        <activity
             android:name=".ekskulActivity"
             android:exported="false" />
         <activity
