@@ -19,6 +19,9 @@
             android:name=".albumpramukaActivity"
             android:exported="false" />
         <activity
+            android:name=".Slider_itemActivity"
+            android:exported="false" />
+        <activity
             android:name=".ProfilSekolahKuActivity"
             android:exported="false" />
         <activity
