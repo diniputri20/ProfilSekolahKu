@@ -24,7 +24,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="210dp"
                     android:scaleType="fitXY"
-                    android:src="@drawable/header"/>
+                    android:src="@drawable/header" />
 
             </RelativeLayout>
             <!--            Header-->
@@ -59,7 +59,7 @@
                                 android:layout_gravity="center"
                                 android:onClick="profile"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/profil"/>
+                                android:src="@drawable/school"/>
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -96,7 +96,7 @@
                                 android:layout_gravity="center"
                                 android:onClick="perpus"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/perpus"/>
+                                android:src="@drawable/books"/>
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -144,7 +144,7 @@
                                 android:layout_gravity="center"
                                 android:onClick="galeri"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/galeri"/>
+                                android:src="@drawable/gallery"/>
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -229,7 +229,7 @@
                                 android:layout_gravity="center"
                                 android:onClick="ekskul"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/ekstrakulikuler"/>
+                                android:src="@drawable/basket"/>
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
@@ -266,7 +266,7 @@
                                 android:layout_gravity="center"
                                 android:onClick="guru"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/guru"/>
+                                android:src="@drawable/profile"/>
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
