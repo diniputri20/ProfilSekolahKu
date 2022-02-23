@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
     }public void profile(View view) {
-        Intent intent = new Intent(MainActivity.this, profilActivity.class);
+        Intent intent = new Intent(MainActivity.this, ProfilSekolahKuActivity.class);
         startActivity(intent);
     }
 
