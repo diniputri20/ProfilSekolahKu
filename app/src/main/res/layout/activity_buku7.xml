@@ -71,7 +71,7 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8" />
+                                android:src="@drawable/mtk7" />
 
                             <TextView
                                 android:layout_width="match_parent"
@@ -110,13 +110,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8" />
+                                android:src="@drawable/bin7" />
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="Bhs Indonesia"/>
+                                android:text="BHS INDONESIA"/>
 
                             <Button
                                 android:layout_width="match_parent"
@@ -148,13 +148,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8"/>
+                                android:src="@drawable/bing7"/>
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="Bhs Inggris" />
+                                android:text="BHS INGGRIS" />
 
                             <Button
                                 android:layout_width="match_parent"
@@ -172,43 +172,6 @@
 
                         </LinearLayout>
                         <!--                        PENUTUP BUKU 3-->
-                        <!--                        BUKU 4-->
-                        <LinearLayout
-                            android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            android:layout_weight="1"
-                            android:background="#dfdfdf"
-                            android:orientation="vertical">
-
-                            <ImageView
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent"
-                                android:layout_weight="1"
-                                android:adjustViewBounds="true"
-                                android:cropToPadding="true"
-                                android:src="@drawable/mtk8"/>
-
-                            <TextView
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:gravity="center"
-                                android:text="MATEMATIKA"/>
-
-                            <Button
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:layout_marginLeft="3dp"
-                                android:layout_marginRight="3dp"
-                                android:autoLink="web"
-                                android:background="#00838f"
-                                android:clickable="true"
-                                android:cursorVisible="true"
-                                android:linksClickable="true"
-                                android:text="BACA"
-                                android:textColor="@color/white" />
-
-                        </LinearLayout>
-                        <!--                        PENUTUP BUKU 4-->
                     </LinearLayout>
 
                 </HorizontalScrollView>
@@ -221,9 +184,6 @@
                 android:layout_height="200dp"
                 android:orientation="vertical"
                 android:padding="15dp">
-
-
-
 
                 <HorizontalScrollView
                     android:layout_width="wrap_content"
@@ -286,13 +246,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8"/>
+                                android:src="@drawable/bin7"/>
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="MATEMATIKA"/>
+                                android:text="BHS INDONESIA"/>
 
                             <Button
                                 android:layout_width="match_parent"
@@ -323,13 +283,13 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8"/>
+                                android:src="@drawable/bing7"/>
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
-                                android:text="MATEMATIKA"/>
+                                android:text="BHS INGGRIS"/>
 
                             <Button
                                 android:layout_width="match_parent"
@@ -346,43 +306,6 @@
 
                         </LinearLayout>
                         <!--                        PENUTUP BUKU 3-->
-                        <!--                        BUKU 4-->
-                        <LinearLayout
-                            android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            android:layout_weight="1"
-                            android:background="#dfdfdf"
-                            android:orientation="vertical">
-
-                            <ImageView
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent"
-                                android:layout_weight="1"
-                                android:adjustViewBounds="true"
-                                android:cropToPadding="true"
-                                android:src="@drawable/mtk8"/>
-
-                            <TextView
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:gravity="center"
-                                android:text="MATEMATIKA"/>
-
-                            <Button
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:layout_marginLeft="3dp"
-                                android:layout_marginRight="3dp"
-                                android:autoLink="web"
-                                android:background="#00838f"
-                                android:clickable="true"
-                                android:cursorVisible="true"
-                                android:linksClickable="true"
-                                android:textColor="@color/white"
-                                android:text="BACA"/>
-
-                        </LinearLayout>
-                        <!--                        PENUTUP BUKU 4-->
                     </LinearLayout>
 
                 </HorizontalScrollView>
