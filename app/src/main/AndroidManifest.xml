@@ -1,71 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-        package="com.example.profilsekolahku">
+    package="com.example.profilsekolahku" >
 
     <application
-            android:allowBackup="true"
-            android:icon="@mipmap/ic_launcher"
-            android:label="@string/app_name"
-            android:roundIcon="@mipmap/ic_launcher_round"
-            android:supportsRtl="true"
-            android:theme="@style/Theme.ProfilSekolahKu">
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProfilSekolahKu" >
         <activity
-                android:name=".FutsalActivity"
-                android:exported="false" />
+            android:name=".PerpusActivity"
+            android:exported="false" />
         <activity
-                android:name=".PmrActivity"
-                android:exported="false" />
+            android:name=".Buku9Activity"
+            android:exported="false" />
         <activity
-                android:name=".PramukaActivity"
-                android:exported="false" />
+            android:name=".Buku8Activity"
+            android:exported="false" />
         <activity
-                android:name=".OsisActivity"
-                android:exported="false" />
+            android:name=".Buku7Activity"
+            android:exported="false" />
         <activity
-                android:name=".EskulActivity"
-                android:exported="false" />
+            android:name=".albumhutriActivity"
+            android:exported="false" />
         <activity
-                android:name=".PerpusActivity"
-                android:exported="false" />
+            android:name=".albumpmrActivity"
+            android:exported="false" />
         <activity
-                android:name=".Buku9Activity"
-                android:exported="false" />
+            android:name=".albumpramukaActivity"
+            android:exported="false" />
         <activity
-                android:name=".Buku8Activity"
-                android:exported="false" />
+            android:name=".Slider_itemActivity"
+            android:exported="false" />
         <activity
-                android:name=".Buku7Activity"
-                android:exported="false" />
+            android:name=".ProfilSekolahKuActivity"
+            android:exported="false" />
         <activity
-                android:name=".albumhutriActivity"
-                android:exported="false" />
+            android:name=".SplashScreenActivity"
+            android:exported="false" />
         <activity
-                android:name=".albumpmrActivity"
-                android:exported="false" />
+            android:name=".EkskulActivity"
+            android:exported="false" />
         <activity
-                android:name=".albumpramukaActivity"
-                android:exported="false" />
+            android:name=".galeryActivity"
+            android:exported="false" />
         <activity
-                android:name=".Slider_itemActivity"
-                android:exported="false" />
+            android:name=".fasilitasActivity"
+            android:exported="false" />
         <activity
-                android:name=".ProfilSekolahKuActivity"
-                android:exported="false" />
+            android:name=".guruActivity"
+            android:exported="false" />
         <activity
-                android:name=".SplashScreenActivity"
-                android:exported="false" />
-        <activity
-                android:name=".galeryActivity"
-                android:exported="false" />
-        <activity
-                android:name=".fasilitasActivity"
-                android:exported="false" />
-        <activity
-                android:name=".guruActivity"
-                android:exported="false" />
-        <activity
-                android:name=".MainActivity"
-                android:exported="true">
+            android:name=".MainActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
