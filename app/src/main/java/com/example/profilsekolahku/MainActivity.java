@@ -15,8 +15,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-    }public void profile(View view) {
+    }
+    public void profile(View view) {
         Intent intent = new Intent(MainActivity.this, ProfilSekolahKuActivity.class);
         startActivity(intent);
     }
@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void ekskul(View view) {
-        Intent intent = new Intent(MainActivity.this, EkskulActivity.class);
+        Intent intent = new Intent(MainActivity.this, EskulActivity.class);
         startActivity(intent);
     }
 
