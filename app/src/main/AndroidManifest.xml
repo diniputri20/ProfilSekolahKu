@@ -40,7 +40,7 @@
             android:name=".SplashScreenActivity"
             android:exported="false" />
         <activity
-            android:name=".EkskulActivity"
+            android:name=".EskulActivity"
             android:exported="false" />
         <activity
             android:name=".galeryActivity"
