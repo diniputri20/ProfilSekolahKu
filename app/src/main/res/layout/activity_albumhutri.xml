@@ -33,7 +33,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:adjustViewBounds="true"
-                        android:src="@drawable/hut4" />
+                        android:src="@drawable/cosplai" />
                 </LinearLayout>
                 <!--                TUTUP GAMBAR 1-->
 
@@ -65,7 +65,7 @@
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp"
                     android:layout_marginRight="5dp"
-                    android:text="PERAYAAN HUT RI"
+                    android:text="FESTIVAL COSPLAY SEKOLAH"
                     android:textColor="#000"
                     android:textSize="10sp"
                     android:textStyle="bold" />
@@ -77,9 +77,9 @@
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="20dp"
                     android:layout_marginRight="5dp"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas accumsan lacus vel facilisis volutpat est velit egestas dui. Lectus quam id leo in vitae turpis massa sed elementum. Auctor eu augue ut lectus arcu bibendum at varius. Velit dignissim sodales ut eu. Et ligula ullamcorper malesuada proin. Quisque sagittis purus sit amet volutpat consequat mauris. Accumsan tortor posuere ac ut consequat semper viverra. Libero enim sed faucibus turpis in. Tincidunt eget nullam non nisi est sit amet.
+                    android:text="Festival dan acara-acara penggemar anime atau Jepang biasanya diadakan setahun sekali di Jakarta dan sekitarnya. Salah satunya adalah anima cosplay.
 
-Tellus id interdum velit laoreet. Rhoncus dolor purus non enim praesent elementum facilisis leo. Purus ut faucibus pulvinar elementum. Condimentum mattis pellentesque id nibh tortor id. Elementum eu facilisis sed odio morbi quis. Eget felis eget nunc lobortis mattis. Cursus turpis massa tincidunt dui ut ornare. Magna etiam tempor orci eu lobortis. In aliquam sem fringilla ut morbi tincidunt augue interdum velit. Sit amet tellus cras adipiscing enim. Purus sit amet luctus venenatis lectus magna fringilla urna. Mus mauris vitae ultricies leo integer."
+AnimeCosplay merupakan pameran figure dan merchandise anime Jepang, kontes, hiburan dari merek berlisensi, dan banyak lagi program menarik lainnya yang diadakan hampir tiap tahun."
                     android:textColor="#000"
                     android:textSize="10sp" />
 
