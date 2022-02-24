@@ -32,7 +32,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/perpustakaan18" />
+                    android:src="@drawable/wepong" />
 
             </androidx.cardview.widget.CardView>
 
@@ -53,7 +53,7 @@
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp"
                     android:layout_marginRight="5dp"
-                    android:text="PERPUSTAKAAN"
+                    android:text="WEPONG MANTAP"
                     android:textColor="@color/black"
                     android:textSize="10sp"
                     android:textStyle="bold" />
@@ -65,8 +65,7 @@
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="20dp"
                     android:layout_marginRight="5dp"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas accumsan lacus vel facilisis volutpat est velit egestas dui. Lectus quam id leo in vitae turpis massa sed elementum.
-Tellus id interdum velit laoreet."
+                    android:text="INI ADALAH WEPONG (WC SEPONJ) WC TERKEREN DI ALAM SEMESTA"
                     android:textAlignment="center"
                     android:textColor="@color/black"
                     android:textSize="10sp" />
@@ -89,7 +88,7 @@ Tellus id interdum velit laoreet."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/labipa18" />
+                    android:src="@drawable/motor" />
 
             </androidx.cardview.widget.CardView>
 
@@ -110,7 +109,7 @@ Tellus id interdum velit laoreet."
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp"
                     android:layout_marginRight="5dp"
-                    android:text="LAB IPA"
+                    android:text="PARKIRAN NGABERS"
                     android:textColor="@color/black"
                     android:textSize="10sp"
                     android:textStyle="bold" />
@@ -122,8 +121,7 @@ Tellus id interdum velit laoreet."
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="20dp"
                     android:layout_marginRight="5dp"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas accumsan lacus vel facilisis volutpat est velit egestas dui. Lectus quam id leo in vitae turpis massa sed elementum.
-Tellus id interdum velit laoreet."
+                    android:text="PARKIRAN NGABERS, BAYAR SE IKHLASNYA MINIMAL 1 JUTA BELUM TERMASUK PAJAK. CHINA DILARANG MASUK, NIGGA WAJIB MASUK"
                     android:textAlignment="center"
                     android:textColor="@color/black"
                     android:textSize="10sp" />
@@ -146,7 +144,7 @@ Tellus id interdum velit laoreet."
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/labkomputer" />
+                    android:src="@drawable/restoran" />
 
             </androidx.cardview.widget.CardView>
 
@@ -167,7 +165,7 @@ Tellus id interdum velit laoreet."
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp"
                     android:layout_marginRight="5dp"
-                    android:text="LAB KOMPUTER"
+                    android:text="RESTORAN ANTI SIPIT"
                     android:textColor="@color/black"
                     android:textSize="10sp"
                     android:textStyle="bold" />
@@ -179,8 +177,63 @@ Tellus id interdum velit laoreet."
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="20dp"
                     android:layout_marginRight="5dp"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas accumsan lacus vel facilisis volutpat est velit egestas dui. Lectus quam id leo in vitae turpis massa sed elementum.
-Tellus id interdum velit laoreet."
+                    android:text="fun fact tuhan itu nyata, anak punk masuk surga, china dilarang masuk, allah itu nyata"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="10sp" />
+
+            </androidx.cardview.widget.CardView>
+            <!--         PENUTUP FASILITAS 3-->
+
+            <!--            FASILITAS 3-->
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="12dp"
+                android:layout_marginBottom="12dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/hotel" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="12dp"
+                android:layout_marginBottom="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:text="ASRAMA NIGGA"
+                    android:textColor="@color/black"
+                    android:textSize="10sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginRight="5dp"
+                    android:text="DILARANG MELARANG, JANGAN SARA LO SIPIT, FUN FACT SIPIT GABISA NGOCOK DI HOTEL,"
                     android:textAlignment="center"
                     android:textColor="@color/black"
                     android:textSize="10sp" />
