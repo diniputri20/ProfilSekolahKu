@@ -41,15 +41,18 @@ public class EkskulActivity extends AppCompatActivity {
     public void pramuka(View view) {
         Intent intent = new Intent(EkskulActivity.this, PramukaActivity.class);
         startActivity(intent);
+
     }
 
     public void pmr(View view) {
         Intent intent = new Intent(EkskulActivity.this, PmrActivity.class);
         startActivity(intent);
+
     }
 
     public void futsal(View view) {
         Intent intent = new Intent(EkskulActivity.this, FutsalActivity.class);
         startActivity(intent);
+
     }
 }

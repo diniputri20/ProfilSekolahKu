@@ -119,7 +119,7 @@
                         android:layout_height="wrap_content"
                         android:gravity="center"
                         android:layout_marginLeft="50dp"
-                        android:text="WAKA kESISWAAN"
+                        android:text="WAKA KESISWAAN"
                         android:textStyle="bold"
                         android:textSize="17sp"
                         android:textColor="#4CAF50"/>
