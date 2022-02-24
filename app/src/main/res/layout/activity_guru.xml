@@ -167,7 +167,7 @@
                         android:layout_height="wrap_content"
                         android:gravity="center"
                         android:layout_marginLeft="50dp"
-                        android:text="AULIA RACHMAN S.KOM"
+                        android:text="AULIA RACHMAN"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold"/>
