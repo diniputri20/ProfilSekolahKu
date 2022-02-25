@@ -87,7 +87,7 @@
                                             android:layout_gravity="center"
                                             android:layout_marginLeft="10dp"
                                             android:layout_marginTop="10dp"
-                                            android:src="@drawable/logoosis">
+                                            android:src="@drawable/mainbola">
 
                                     </ImageView>
 
@@ -96,7 +96,7 @@
                                             android:layout_height="wrap_content"
                                             android:layout_gravity="center"
                                             android:layout_marginLeft="50dp"
-                                            android:text="ORGANISASI OSIS">
+                                            android:text="SEPAK BOLA">
 
                                     </TextView>
                                 </LinearLayout>
@@ -128,7 +128,7 @@
                                             android:layout_gravity="center"
                                             android:layout_marginLeft="10dp"
                                             android:layout_marginTop="10dp"
-                                            android:src="@drawable/logopramuka">
+                                            android:src="@drawable/basketot">
 
                                     </ImageView>
 
@@ -137,7 +137,7 @@
                                             android:layout_height="wrap_content"
                                             android:layout_gravity="center"
                                             android:layout_marginLeft="50dp"
-                                            android:text="ORGANISASI OSIS">
+                                            android:text="BOLA BASKET">
 
                                     </TextView>
                                 </LinearLayout>
@@ -169,7 +169,7 @@
                                             android:layout_gravity="center"
                                             android:layout_marginLeft="10dp"
                                             android:layout_marginTop="10dp"
-                                            android:src="@drawable/logopmr">
+                                            android:src="@drawable/berenang">
 
                                     </ImageView>
 
@@ -178,7 +178,7 @@
                                             android:layout_height="wrap_content"
                                             android:layout_gravity="center"
                                             android:layout_marginLeft="50dp"
-                                            android:text="ORGANISASI OSIS">
+                                            android:text="RENANG">
 
                                     </TextView>
                                 </LinearLayout>
@@ -210,7 +210,7 @@
                                             android:layout_gravity="center"
                                             android:layout_marginLeft="10dp"
                                             android:layout_marginTop="10dp"
-                                            android:src="@drawable/logofutsal">
+                                            android:src="@drawable/drumband">
 
                                     </ImageView>
 
@@ -219,7 +219,7 @@
                                             android:layout_height="wrap_content"
                                             android:layout_gravity="center"
                                             android:layout_marginLeft="50dp"
-                                            android:text="ORGANISASI OSIS">
+                                            android:text="DRUMBAND">
 
                                     </TextView>
                                 </LinearLayout>
