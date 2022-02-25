@@ -208,7 +208,7 @@
                                 android:layout_weight="1"
                                 android:adjustViewBounds="true"
                                 android:cropToPadding="true"
-                                android:src="@drawable/mtk8"/>
+                                android:src="@drawable/mtk7"/>
 
                             <TextView
                                 android:layout_width="match_parent"
