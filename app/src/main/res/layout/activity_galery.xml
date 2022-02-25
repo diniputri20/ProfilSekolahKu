@@ -79,7 +79,7 @@
                             android:layout_gravity="center"
                             android:layout_marginRight="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/cosplay">
+                            android:src="@drawable/logoosis">
 
                         </ImageView>
 
@@ -88,7 +88,7 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
-                            android:text="FESTIVAL COSPLAY">
+                            android:text="ORGANISASI OSIS">
 
                         </TextView>
 
@@ -122,7 +122,7 @@
                             android:layout_gravity="center"
                             android:layout_marginRight="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/hutri">
+                            android:src="@drawable/kembaran">
 
                         </ImageView>
 
@@ -131,7 +131,7 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
-                            android:text="LOMBA HUTRI">
+                            android:text="ORGANISASI OSIS">
 
                         </TextView>
 
@@ -165,7 +165,7 @@
                             android:layout_margin="10dp"
                             android:layout_marginTop="10dp"
                             android:layout_marginRight="10dp"
-                            android:src="@drawable/kartini">
+                            android:src="@drawable/aksi">
 
                         </ImageView>
 
@@ -174,7 +174,7 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
-                            android:text="HARI KARTINI">
+                            android:text="ORGANISASI PMR">
 
                         </TextView>
 
