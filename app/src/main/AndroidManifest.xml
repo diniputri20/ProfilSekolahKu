@@ -10,9 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolahKu" >
         <activity
-            android:name=".PerpusActivity"
-            android:exported="false" />
-        <activity
             android:name=".Buku9Activity"
             android:exported="false" />
         <activity
@@ -34,11 +31,17 @@
             android:name=".Slider_itemActivity"
             android:exported="false" />
         <activity
-            android:name=".ProfilSekolahKuActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="false" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
             android:name=".EskulActivity"
             android:exported="false" />
@@ -52,14 +55,12 @@
             android:name=".guruActivity"
             android:exported="false" />
         <activity
-            android:name=".SplashScreenActivity"
-            android:exported="true" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+            android:name=".PerpusActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProfilSekolahKuActivity"
+            android:exported="false" />
     </application>
+
 
 </manifest>
