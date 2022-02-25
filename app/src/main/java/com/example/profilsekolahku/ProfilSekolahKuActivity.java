@@ -16,6 +16,6 @@ public class ProfilSekolahKuActivity extends AppCompatActivity {
 
         pdfView = (PDFView) findViewById(R.id.pdfView);
 
-        pdfView.fromAsset("lampiran.pdf").load();
+        pdfView.fromAsset("profilsekolah.pdf").load();
     }
 }
